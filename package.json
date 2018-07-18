@@ -1,0 +1,26 @@
+{
+  "name": "react-with-render-props",
+  "version": "1.0.0",
+  "description":
+    "React menu demo implementing render props pattern, allowing dynamic composition producing right slide, slide up and dropdown menu",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "aphrodite": "2.2.2",
+    "downshift": "2.0.16",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-fontawesome": "1.6.1",
+    "react-popper": "1.0.0",
+    "react-scripts": "1.1.4",
+    "recompose": "0.27.1",
+    "sanitize.css": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
